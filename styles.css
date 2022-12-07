@@ -1,0 +1,84 @@
+:root {
+  --pm-color: #2E3092;
+  --sm-color: #E57525;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h3 {
+  color: var(--pm-color);
+}
+
+.contactus-button {
+  background-color: var(--sm-color);
+  /*border: 0px solid;*/
+  /*border-radius: 20px;*/
+  /*font-size: 1.5rem;*/
+}
+
+.watsapp-button {
+  background-color: #52C55E;
+}
+
+a {
+  color: white;
+}
+
+.nav-text {
+  color: white;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: var(--sm-color);
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: white;
+}
+
+.ser-img {
+  z-index: 1;
+}
+
+.service-name {
+  letter-spacing: 2px;
+}
+
+#dk-footer {
+}
+
+.pd-img {
+  height: 100%;
+}
+
+div {
+}
+
+@media (min-width: 1200px) {
+  .sre {
+    margin-top: 5rem;
+  }
+}
+
+.contactus-button {
+  width: 100%;
+}
+
+.btn {
+}
+
+.1q {
+  position: relative;
+  top: 5rem;
+}
+
+.sd2 {
+  position: relative;
+}
+
+.1q {
+  position: absolute;
+}
+
